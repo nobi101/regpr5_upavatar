@@ -84,6 +84,7 @@ print('─'*50)
 print('[ENTER - ĐỂ DỪNG NHẬP]')
 while True:
     stt2+=1 
+    print('Link up image: https://upanh.1doi1.com/')
     link_img = input(f'VUI LÒNG NHẬP LINK ẢNH THỨ [{stt2}]: ')
     if link_img == '':
         break
